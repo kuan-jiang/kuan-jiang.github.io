@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Medicine, Peking University, 2020
-* B.S. in Economics, Peking University, 2020
-* M.S. in Biostatistics, Peking University, 2022 (expected)
+* B.S. in Medicine, Peking University, 2023 (expected)
+* B.S. in Economics, Peking University, 2023 (expected)
 
 Publications
 ======
@@ -21,7 +20,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}

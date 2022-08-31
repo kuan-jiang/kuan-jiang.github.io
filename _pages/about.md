@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in School of Public Health at Peking University.
+I am an undergraduate student in School of Public Health at Peking University. And I also study Economics in National School of Development at the same time. I will get my bachlor's degree in 2023.
 
 Research Interests
 -----------
-My current research interests are causal inference and models in biostatistics.
+Not sure yet. But my probable research interests are causal inference and models in biostatistics.
 
 Education
 -----------
