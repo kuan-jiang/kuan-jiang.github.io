@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Medicine, Peking University, 2023 (expected)
-* B.S. in Economics, Peking University, 2023 (expected)
+* B.S. in Medicine, Peking University, 2023 
+* B.S. in Economics, Peking University, 2023 
 
 Publications
 ======
