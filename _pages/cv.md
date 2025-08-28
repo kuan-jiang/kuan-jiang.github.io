@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Medicine, Peking University, 2023 
 * B.S. in Economics, Peking University, 2023 
+* M.S. in Epidemiology and Health Statistics, 2025
 
 Publications
 ======
