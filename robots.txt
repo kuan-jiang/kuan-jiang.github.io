@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kuan-jiang.github.io/sitemap.xml
+
+# Optional: Disallow specific directories if needed
+# Disallow: /private/
+# Disallow: /drafts/

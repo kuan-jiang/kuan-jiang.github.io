@@ -1,0 +1,166 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>CV - Kuan Jiang</title>
+  <meta name="author" content="Kuan Jiang">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Academic CV of Kuan Jiang - education, research interests, publications, experience, and honors.">
+  <meta name="robots" content="index, follow">
+
+  <meta property="og:title" content="CV - Kuan Jiang">
+  <meta property="og:description" content="Education, research interests, publications, experience, and honors.">
+  <meta property="og:image" content="https://kuan-jiang.github.io/figures/me.jpg">
+  <meta property="og:url" content="https://kuan-jiang.github.io/cv.html">
+  <meta property="og:type" content="profile">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="CV - Kuan Jiang">
+  <meta name="twitter:description" content="Education, research interests, publications, experience, and honors.">
+  <meta name="twitter:image" content="https://kuan-jiang.github.io/figures/me.jpg">
+
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="stylesheet" type="text/css" href="shared-styles.css">
+  <link rel="icon" type="image/png" href="figures/logo.png">
+
+  <style>
+    .about-page h1 {
+      font-size: 24px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 28px;
+    }
+
+    .cv-pdf-link {
+      font-size: 14px;
+      font-weight: 400;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    .cv-contact {
+      margin: -12px 0 24px;
+      font-size: 14px;
+      color: #374151;
+    }
+
+    .cv-contact a { color: var(--primary-color); }
+    .cv-contact .sep { color: #9ca3af; margin: 0 8px; }
+
+    [data-theme="dark"] .cv-contact { color: var(--text-color); }
+    [data-theme="dark"] .cv-contact .sep { color: #888; }
+
+    .about-section {
+      margin-bottom: 24px;
+    }
+
+    .about-section h2 {
+      font-size: 16px;
+      font-weight: 600;
+      color: #1a1a1a;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 10px;
+      padding-bottom: 4px;
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    .about-page #research-experience-list,
+    .about-page #honors-list,
+    .about-page #teaching-list,
+    .about-page #talks-list,
+    .about-page #academic-services-list {
+      list-style: disc !important;
+      padding-left: 20px !important;
+      margin: 0 0 12px 0 !important;
+    }
+
+    .about-page li,
+    .about-section li,
+    .about-page .about-section li {
+      margin-bottom: 4px !important;
+      padding: 0 !important;
+      color: #374151;
+      line-height: 1.6;
+    }
+
+    .about-page p,
+    .about-section p,
+    .about-section li p {
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+
+    /* Dark mode */
+    [data-theme="dark"] .about-page h1 { color: var(--text-color); }
+    [data-theme="dark"] .about-section h2 {
+      color: var(--text-color);
+      border-bottom-color: #374151;
+    }
+    [data-theme="dark"] .about-section li,
+    [data-theme="dark"] .about-section li p { color: var(--text-color); }
+
+  </style>
+</head>
+
+<body>
+  <div id="site-nav"></div>
+
+  <main id="main-content" class="about-page page-shell">
+    <h1>CV <a href="files/CV.pdf" class="cv-pdf-link" target="_blank" rel="noopener">[PDF]</a></h1>
+    <div class="cv-contact">
+      <a href="mailto:kjiang6@ncsu.edu">kjiang6@ncsu.edu</a><span class="sep">/</span>
+      <a href="https://github.com/kuan-jiang" target="_blank" rel="noopener">GitHub</a><span class="sep">/</span>
+      <a href="https://orcid.org/0009-0001-2935-5425" target="_blank" rel="noopener">ORCID</a>
+    </div>
+
+    <div class="about-section">
+      <h2>Education</h2>
+      <ul>
+        <li>Ph.D. Candidate in Statistics, <a href="https://statistics.sciences.ncsu.edu/">North Carolina State University</a>, 2025&ndash;Present</li>
+        <li>Master's degree in Epidemiology and Biostatistics, <a href="https://www.pku.edu.cn/">Peking University</a>, September 2022&ndash;July 2025</li>
+        <li>Bachelor of Medicine in Preventive Medicine, <a href="https://www.pku.edu.cn/">Peking University</a>, 2018&ndash;2023</li>
+        <li>Bachelor of Economics (Dual Degree), <a href="https://www.pku.edu.cn/">Peking University</a>, 2018&ndash;2023</li>
+      </ul>
+    </div>
+
+    <div class="about-section">
+      <h2>Research Interests</h2>
+      <ul>
+        <li>Causal Inference</li>
+        <li>Data Fusion</li>
+        <li>Health and Clinical Data Analysis</li>
+      </ul>
+    </div>
+
+    <div class="about-section">
+      <h2>Selected Publications</h2>
+      <ul id="selected-papers-list" class="publication-list"></ul>
+    </div>
+
+    <div class="about-section">
+      <h2>Research Experience</h2>
+      <ul>
+        <li>Research Assistant, Institute for Brain Disorders, Beijing University of Chinese Medicine</li>
+      </ul>
+    </div>
+
+    <div class="about-section">
+      <h2>Teaching Experience</h2>
+      <ul>
+        <li>Teaching Assistant, ST 308, North Carolina State University</li>
+        <li>Teaching Assistant, ST 371E, North Carolina State University</li>
+      </ul>
+    </div>
+
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="site-shell.js"></script>
+  <script src="utils.js"></script>
+  <script src="data.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

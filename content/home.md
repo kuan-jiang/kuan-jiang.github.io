@@ -1,0 +1,3 @@
+I am a PhD Candidate in the [Department of Statistics](https://statistics.sciences.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/), advised by Prof. [Shu Yang](https://shuyang.wordpress.ncsu.edu/cima-lab/). Previously, I received my master's degree in Epidemiology and Biostatistics from [Peking University](https://www.pku.edu.cn/) under the supervision of Prof. [Xiao-Hua Zhou](https://sph.pku.edu.cn/info/1416/4185.htm). I also received dual bachelor's degrees in Medicine and Economics from Peking University.
+
+My research interests include causal inference, data fusion, and health and clinical data analysis.
